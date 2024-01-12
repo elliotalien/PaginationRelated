@@ -25,7 +25,7 @@ Customize the styles in your CSS file (styles.css) according to your design pref
 
 ```css
 
-.paginationeSction {
+.paginationSction {
   padding: 25px;
 }
 
