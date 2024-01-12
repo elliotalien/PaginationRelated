@@ -110,7 +110,7 @@ listItems[listItems.length - 1].addEventListener("click", function () {
 
 Make sure to load the necessary Font Awesome icons in your HTML document or update the icon classes as needed.
 
-##Features
+## Features
 - Click on individual page numbers to navigate to the corresponding page.
 - Use the previous and next page buttons to navigate through the pages.
 - The active page is visually highlighted with a different background color
