@@ -32,7 +32,6 @@ Customize the styles in your CSS file (styles.css) according to your design pref
 .paginationbtn {
   display: flex;
   gap: 10px;
-  justify-content: flex-end;
 }
 
 .paginationbtn li {
