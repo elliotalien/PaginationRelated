@@ -7,7 +7,7 @@ This repository provides a simple and customizable pagination component with the
 Include the HTML structure in your project:
 
 ```html
-<div class="paginationeSction">
+<div class="paginationSction">
   <ul class="paginationbtn" id="paginationList">
     <li class="previousPage"><i class="fa-solid fa-angle-left"></i></li>
     <li>1</li>
