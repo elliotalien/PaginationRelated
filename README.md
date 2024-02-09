@@ -1,6 +1,5 @@
 # Pagination Component with Active Page Highlighting
 
-## [Live Preview](https://elliotalien.github.io/PaginationRelated/)
 
 
 This repository provides a simple and customizable pagination component with the ability to highlight the active page. The component includes previous and next page buttons, and you can click on individual page numbers to navigate through the pages.
